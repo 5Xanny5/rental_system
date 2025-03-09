@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=RentStatus
+comment0.text=\r\n\ Enumer\u00E1cia\ predstavuj\u00FAca\ mo\u017En\u00E9\ stavy\ pren\u00E1jmu.\r\n\ Obsahuje\ stavy\ "RENTED"\ (prenajat\u00E9)\ a\ "RETURNED"\ (vr\u00E1ten\u00E9).\r\n\ \r\n\ @author\ (Your\ Name)\r\n\ @version\ (Version\ number\ or\ date)\r\n
+numComments=1

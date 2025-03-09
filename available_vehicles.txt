@@ -1,0 +1,48 @@
+---------------
+Brand: Audi
+Model: R8
+Year: 2000
+Hourly Rental Rate: $7.7
+Daily Rental Rate: $184.8
+Number of seats: 4
+Fuel type: benzin
+Fuel level: 100.0
+---------------
+---------------
+Brand: BMW
+Model: M5
+Year: 2022
+Hourly Rental Rate: $10.4
+Daily Rental Rate: $249.60000000000002
+Number of seats: 8
+Fuel type: benzin
+Fuel level: 100.0
+---------------
+---------------
+Brand: Continental
+Model: S
+Year: 2018
+Hourly Rental Rate: $4.3
+Daily Rental Rate: $103.19999999999999
+Number of gears: 3
+Does bike have basket?: yes
+---------------
+---------------
+Brand: Canyone
+Model: Su
+Year: 2016
+Hourly Rental Rate: $4.9
+Daily Rental Rate: $117.60000000000001
+Number of gears: 6
+Does bike have basket?: no
+---------------
+---------------
+Brand: Tesla car
+Model: Truck
+Year: 2022
+Hourly Rental Rate: $10.4
+Daily Rental Rate: $249.60000000000002
+Number of seats: 7
+Battery level: 8%
+Charging time: 10
+---------------

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\r\n\ Trieda\ Customer\ reprezentuje\ z\u00E1kazn\u00EDka\ s\ atrib\u00FAtmi\ ako\ meno\ a\ prenajat\u00E9\ vozidl\u00E1.\r\n
+comment1.params=name
+comment1.target=Customer(java.lang.String)
+comment1.text=\r\n\ Kon\u0161truktor\ pre\ triedu\ Customer.\r\n\r\n\ @param\ name\ Meno\ z\u00E1kazn\u00EDka.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Vr\u00E1ti\ meno\ z\u00E1kazn\u00EDka.\r\n\r\n\ @return\ Meno\ z\u00E1kazn\u00EDka.\r\n
+comment3.params=meno
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\r\n\ Nastav\u00ED\ meno\ z\u00E1kazn\u00EDka.\r\n\r\n\ @param\ name\ Meno\ z\u00E1kazn\u00EDka.\r\n
+comment4.params=
+comment4.target=java.util.List\ getRentedVehicles()
+comment4.text=\r\n\ Vr\u00E1ti\ zoznam\ prenajat\u00FDch\ vozidiel.\r\n\r\n\ @return\ Zoznam\ prenajat\u00FDch\ vozidiel.\r\n
+numComments=5
