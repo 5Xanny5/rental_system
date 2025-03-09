@@ -2,6 +2,7 @@
 /**
  * Konkrétna trieda predstavujúca automobil.
  */
+// The class which represents a car
 public class Car extends Vehicle implements FuelVehicle {
      /** Cislo sedadiel auto vozidla. */
     private int numberOfSeats;
